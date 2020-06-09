@@ -1,7 +1,7 @@
 {
   "name": "use-consistent-value",
   "description": "Keep a consistent reference to an object or array based on their values",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Sergio Xalambrí",
   "license": "MIT",
   "main": "dist/index.js",
